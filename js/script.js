@@ -240,9 +240,6 @@ const pageTravel = {
 
 
 
-
-
-
 const rtRoutes = [
     {
         path : "/",
